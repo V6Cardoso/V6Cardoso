@@ -6,7 +6,7 @@
 [![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:v6cardoso@outlook.com)](mailto:v6cardoso@outlook.com)
 
 
-- 🏢 Salesforce developer at Nèscara
+- 🏢 Salesforce developer at NTT Data
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning Apex, javascript, react native, python... never stop learning!
 
