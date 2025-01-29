@@ -5,11 +5,6 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@V6Cardoso)](https://www.youtube.com/@V6Cardoso)
 [![Email Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:v6cardoso@outlook.com)](mailto:v6cardoso@outlook.com)
 
-
-- 🏢 Salesforce developer at NTT Data
-- 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Apex, javascript, react native, python... never stop learning!
-
 <!---
 V6Cardoso/V6Cardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
